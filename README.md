@@ -1,1 +1,1 @@
-I'm Adrian and today is Wednesday, August 26, 6:00 PM GMT+2.
+I'm Adrian and today is Wednesday, 26 August, 18:06 CEST.
