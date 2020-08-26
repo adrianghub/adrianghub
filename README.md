@@ -1,6 +1,10 @@
 ![banner](https://github.com/adrianghub/adrianghub/blob/master/github/images/baner.jpg)
 
+<<<<<<< HEAD
 ### I'm Adrian 👋 Today is Wednesday, August 26, 7:03 PM GMT+2
+=======
+### I'm Adrian 👋 Today is Wednesday, 26 August, 19:03 CEST
+>>>>>>> 91bfd91599fdb14c338db475ac19f5a97c4a0212
 #### IT Studnet, Aspiring web developer, Software Engineer Intern in the biggest Poland e-commerce platform 👨‍🎓 Front-end technologies, RPi ❤ In my spare time I'm also in love with powerlifting 🏋️‍♀️ ukulele rythms 🎸 and cooking🥧
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true)  
