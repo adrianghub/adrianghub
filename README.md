@@ -1,5 +1,3 @@
-I'm Adrian and today is Wednesday, August 26, 6:59 PM GMT+2.
-
 ![banner](https://github.com/adrianghub/adrianghub/blob/master/github/images/baner.jpg)
 
 ### I'm Adrian 👋 Today is Wednesday, 26 August, 18:44 CEST.
