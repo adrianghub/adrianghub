@@ -1,6 +1,6 @@
 ![banner](https://github.com/adrianghub/adrianghub/blob/master/github/images/baner.jpg)
 
-### I'm Adrian 👋 Today is Tuesday, 8 September, 20:01 CEST
+### I'm Adrian 👋 Today is Wednesday, 9 September, 02:01 CEST
 #### IT Studnet, Aspiring web developer, Software Engineer Intern in the biggest Poland e-commerce platform 👨‍🎓 Front-end technologies, RPi ❤ In my spare time I'm also in love with powerlifting 🏋️‍♀️ ukulele rythms 🎸 and cooking🥧
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true)  
