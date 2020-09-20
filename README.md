@@ -9,7 +9,7 @@
 - 🥧 Chief in my kichen
 
 :mailbox: Reach me out!
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resume/AdrianZinko-Resume2020.pdf)
+- :paperclip: [My Resume/CV](https://github.com/adrianghub/adrianghub/blob/master/resume/AdrianZinko-Resume2020.pdf)
 - :email: zinko.adrian00@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true)  
