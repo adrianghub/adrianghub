@@ -6,7 +6,7 @@
 - ❤ Front-end technologies, RPi, Arduino
 - 🏋️‍♀️ Powerlifter, activities hunter  
 - 🎸 Ukulele player
-- 🥧 Chief in my kichen
+- 🥧 Chief in my own kitchen
 
 :mailbox: Reach me out!
 - :paperclip: [My Resume/CV](https://github.com/adrianghub/adrianghub/blob/master/resume/AdrianZinko-Resume2020.pdf)
