@@ -26,6 +26,8 @@ Find out more about me
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=synthwave&count_private=true&hide=prs,issues,contribs)  
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="margin-right: 20px">](https://www.linkedin.com/in/adrian.zinko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="margin-right: 20px">](https://www.instagram.com/_drianko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="margin-right: 20px">](https://twitter.com/adrian.zinko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style="margin-right: 20px">](https://adrianghub.netlify.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/adrianghub)
 
