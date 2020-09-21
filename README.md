@@ -14,6 +14,11 @@
 - :paperclip: [My Resume/CV](https://github.com/adrianghub/adrianghub/blob/master/resume/AdrianZinko-Resume2020.pdf)
 - :email: zinko.adrian00@gmail.com
 
+<details>
+<summary>
+Find out more about me
+</summary>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=synthwave&count_private=true&hide=prs,issues,contribs)  
 
 ### Tools I've used recently
@@ -25,3 +30,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="margin-right: 20px">](https://www.linkedin.com/in/adrian.zinko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="margin-right: 20px">](https://www.instagram.com/_drianko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="margin-right: 20px">](https://twitter.com/adrian.zinko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style="margin-right: 20px">](https://adrianghub.netlify.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/adrianghub)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+
+</details>
