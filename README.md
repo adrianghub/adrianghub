@@ -25,7 +25,11 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS      1 hr 40 mins    ██████████▓░░░░░░░░░░░░░░   42.58 % 
+PHP      1 hr 15 mins    ████████░░░░░░░░░░░░░░░░░   31.96 % 
+Python   21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+HTML     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+YAML     12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 ```
 <!--END_SECTION:waka-->
 
