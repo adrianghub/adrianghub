@@ -25,11 +25,11 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-HTML         12 hrs 51 mins  ██████████░░░░░░░░░░░░░░░   39.92 % 
-SCSS         10 hrs 37 mins  ████████▒░░░░░░░░░░░░░░░░   32.98 % 
-JavaScript   4 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Python       3 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+HTML         15 hrs 4 mins   ███████████░░░░░░░░░░░░░░   43.81 % 
+SCSS         13 hrs 40 mins  ██████████░░░░░░░░░░░░░░░   39.72 % 
+JavaScript   4 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Python       36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
 
