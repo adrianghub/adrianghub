@@ -25,11 +25,7 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-Python       8 hrs 3 mins    ███████████████▓░░░░░░░░░   62.16 % 
-SCSS         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-JavaScript   52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Text         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-JSON         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
