@@ -25,7 +25,9 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-
+Java         1 hr 37 mins    ███████████████████████▒░   93.45 % 
+Git Config   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
 
