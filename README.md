@@ -19,7 +19,9 @@
 Find out more about me
 </summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=synthwave&count_private=true&hide=prs,issues,contribs)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=synthwave&count_private=true&hide=prs,issues,contribs)
+
+<figure><embed src="https://wakatime.com/share/@0a47b78c-1f7b-470c-8a47-f8c760b6dcf8/0a7aa985-cb7b-4a7c-a53a-940db11d87d7.svg"></embed></figure>
 
 ### Tools I've used recently
 
