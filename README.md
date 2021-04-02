@@ -27,9 +27,11 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 37 mins    ███████████████████████▒░   93.45 % 
-Git Config   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Java         6 hrs 12 mins   █████████████████████░░░░   84.07 % 
+Groovy       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Markdown     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 <!--END_SECTION:waka-->
 
