@@ -29,11 +29,11 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-Java         6 hrs 59 mins   ███████████████▒░░░░░░░░░   61.72 % 
-JavaScript   1 hr 56 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.22 % 
-JSX          1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Properties   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Groovy       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+JavaScript   9 hrs 37 mins   ████████████░░░░░░░░░░░░░   48.39 % 
+Java         4 hrs 47 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+JSX          4 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.69 % 
+JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 <!--END_SECTION:waka-->
 
