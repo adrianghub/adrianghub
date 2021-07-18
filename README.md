@@ -42,3 +42,5 @@ Other        17 mins         ▒░░░░░░░░░░░░░░░░
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
 </details>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ae5g4slj4cqzbvrnfk7q1a7in&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
