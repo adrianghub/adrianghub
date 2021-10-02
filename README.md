@@ -40,13 +40,3 @@ Groovy       4 mins          ▒░░░░░░░░░░░░░░░░
 </details>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ae5g4slj4cqzbvrnfk7q1a7in&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
-### temp 
-
-*DAILY 25.11.2018*
-* naprawiłem buga XXX i zacząłem zajmować się taskiem YYY.
-* z tym ostatnim mam problem i *potrzebuję pomocy* (szczegóły za chwilę).
-* jutro będę dalej pracować nad YYY, myślę że uda się skończyć, więc przydzieliłem też do siebie ZZZ.
-
-Szczegóły dot. problemu z YYY są w komentarzach:
-https://xxx.xxx.com/
