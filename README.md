@@ -27,9 +27,8 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-Java         3 hrs 56 mins   █████████████████████▒░░░   85.41 % 
-Properties   35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Groovy       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Java         2 hrs 13 mins   ████████████████████████▒   97.31 % 
+XML          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 <!--END_SECTION:waka-->
 
