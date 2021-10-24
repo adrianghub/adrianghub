@@ -27,8 +27,7 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-Java         2 hrs 13 mins   ████████████████████████▒   97.31 % 
-XML          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Java    1 hr 25 mins    █████████████████████████   99.66 % 
 ```
 <!--END_SECTION:waka-->
 
