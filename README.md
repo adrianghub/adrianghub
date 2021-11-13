@@ -27,11 +27,11 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 56 mins    █████████▓░░░░░░░░░░░░░░░   38.58 % 
-JSX          1 hr 52 mins    █████████▒░░░░░░░░░░░░░░░   37.44 % 
-TypeScript   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-JSON         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JSX          2 hrs 46 mins   ████████░░░░░░░░░░░░░░░░░   31.44 % 
+JavaScript   2 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.10 % 
+TypeScript   2 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.90 % 
+JSON         58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
 
