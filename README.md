@@ -27,11 +27,7 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 46 mins    ███████████▓░░░░░░░░░░░░░   46.20 % 
-JSX          54 mins         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-JSON         39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
-JavaScript   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
