@@ -27,7 +27,7 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   14 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
