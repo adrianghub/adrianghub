@@ -27,7 +27,9 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   1 hr 19 mins    ███████████████████████▓░   94.09 % 
+Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 <!--END_SECTION:waka-->
 
