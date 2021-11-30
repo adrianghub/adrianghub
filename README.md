@@ -27,9 +27,10 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 19 mins    ███████████████████████▓░   94.09 % 
-Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JavaScript   1 hr 41 mins    █████████████████░░░░░░░░   68.63 % 
+JSX          41 mins         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
 
