@@ -27,8 +27,7 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-JSX          41 mins         ████████████████▒░░░░░░░░   65.39 % 
-JavaScript   21 mins         ████████▓░░░░░░░░░░░░░░░░   34.61 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
