@@ -27,7 +27,10 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX          1 hr 21 mins    █████████████░░░░░░░░░░░░   52.10 % 
+JavaScript   1 hr 8 mins     ███████████░░░░░░░░░░░░░░   44.15 % 
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 <!--END_SECTION:waka-->
 
