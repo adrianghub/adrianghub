@@ -27,7 +27,11 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   2 hrs 32 mins   ██████████████████████▒░░   89.41 % 
+Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+XML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
 
