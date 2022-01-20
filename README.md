@@ -27,7 +27,8 @@ Find out more about me
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON         40 mins         ██████████████████████░░░   87.92 % 
+TypeScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 ```
 <!--END_SECTION:waka-->
 
