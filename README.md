@@ -26,13 +26,16 @@ Find out more about me
 ### Tools I've used recently
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   20 hrs 39 mins  ████████████████████▒░░░░   81.09 % 
-JavaScript   3 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Solidity     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TypeScript   16 hrs 3 mins   ████████████████████░░░░░   79.99 %
+JavaScript   3 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
+
 <!--END_SECTION:waka-->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="margin-right: 20px">](https://www.linkedin.com/in/adrian.zinko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="margin-right: 20px">](https://www.instagram.com/_drianko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="margin-right: 20px">](https://twitter.com/adrian.zinko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style="margin-right: 20px">](https://adrianghub.netlify.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/adrianghub)
