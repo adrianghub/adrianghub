@@ -28,9 +28,8 @@ Find out more about me
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 57 mins  ████████████████████████░   96.03 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+TypeScript   13 hrs 22 mins  ███████████████████████▒░   93.09 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
