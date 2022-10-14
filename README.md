@@ -28,12 +28,12 @@ Find out more about me
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   21 hrs 27 mins  ████████████████░░░░░░░░░   63.85 %
-HTML         6 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.36 %
-JSON         2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-SCSS         2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-JavaScript   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+TypeScript   20 hrs 36 mins  █████████████▓░░░░░░░░░░░   54.77 %
+HTML         10 hrs 34 mins  ███████░░░░░░░░░░░░░░░░░░   28.11 %
+SCSS         4 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+JSON         1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+JavaScript   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
