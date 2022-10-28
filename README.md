@@ -28,12 +28,12 @@ Find out more about me
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.02 %
-SCSS         4 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-HTML         3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-JavaScript   2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Bash         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-YAML         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+TypeScript   5 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   28.37 %
+SCSS         4 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+HTML         2 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+JavaScript   2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+YAML         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Bash         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
