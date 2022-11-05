@@ -28,11 +28,7 @@ Find out more about me
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     15 mins         ███████████░░░░░░░░░░░░░░   43.75 %
-Bash         14 mins         ██████████░░░░░░░░░░░░░░░   40.01 %
-HTML         4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-TypeScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
