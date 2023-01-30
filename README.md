@@ -15,23 +15,21 @@
 - :email: zinko.adrian00@gmail.com
 
 <details>
+<br />
 <summary>
 Find out more about me
 </summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=synthwave&count_private=true&hide=prs,issues,contribs)
 
-<figure><embed src="https://wakatime.com/share/@0a47b78c-1f7b-470c-8a47-f8c760b6dcf8/fbbae46a-46f5-4a21-ae69-838d831afb7a.svg"></embed></figure>
-
 ### Tools I've used recently
 
+<br/>
+
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+<br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="margin-right: 20px">](https://www.linkedin.com/in/adrian.zinko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="margin-right: 20px">](https://www.instagram.com/_drianko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="margin-right: 20px">](https://twitter.com/adrian.zinko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style="margin-right: 20px">](https://adrianghub.netlify.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/adrianghub)
 
