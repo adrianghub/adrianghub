@@ -27,11 +27,16 @@ Find out more about me
 <br/>
 
 <!--START_SECTION:waka-->
- 
- ```text
-No activity tracked
+
+```text
+TypeScript   14 hrs 50 mins  ████████████████▓░░░░░░░░   67.33 %
+HTML         3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+SCSS         1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+JSON         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+YAML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Bash         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
- 
+
 <!--END_SECTION:waka-->
 
 <br />
