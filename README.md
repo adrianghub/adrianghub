@@ -29,11 +29,11 @@ Find out more about me
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 hrs 34 mins  ████████████▒░░░░░░░░░░░░   48.86 %
-Astro        6 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
-HTML         3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-JSON         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Other        1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+TypeScript   12 hrs 17 mins  ████████████░░░░░░░░░░░░░   48.49 %
+Astro        5 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
+HTML         3 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+JSON         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Other        51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
