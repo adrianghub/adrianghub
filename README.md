@@ -13,7 +13,7 @@
 - 👀 I’m currently working on project as a **Frontend Developer** using :triangular_flag_on_post:	Angular 14 :triangular_flag_on_post:	 as a main framework
 - :newspaper: From time to time I'm interviewing JS candidates for our company as a technical recruiter
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
-- 👷🏻‍♂️ Feel free to see my <a href="https://adrianzinko.com" target="_blank">💰**Portfolio Website**💰
+- 👷🏻‍♂️ Feel free to see my <a href="https://adrianzinko.com" target="_blank">:bulb:**Portfolio Website**:bulb:
 - 📨 If you want to reach out feel free to send me an email : zinkoadrian00@gmail.com
 - :paperclip: [My Resume](https://github.com/adrianghub/adrianghub/blob/master/resume/CV_ADRIAN_ZINKO.pdf)
 
