@@ -1,26 +1,32 @@
-![banner](https://github.com/adrianghub/adrianghub/blob/master/github/images/baner.jpg)
+![Portfolio Banner](https://azinko.s3.eu-central-1.amazonaws.com/banner-github.png)
 
-### I'm Adrian
+<h1 align="center">
+  Hi there, I’m Adrian !
+</h1>
 
-- 👨‍🎓  CS Graduate Student
-- ❤  Web Development, Blockchain, RPi, Arduino
-- 🏋️‍♀️ Powerlifter, activities hunter  
-- 🎸 Ukulele player
-- 🥧 Chief in my own kitchen
+<h2 align="center">👨🏻‍💻 JavaScript Developer (Angular, React, Node) 👨🏻‍💻</h2> 
 
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
-:mailbox: Reach me out!
+<h3 align="left">Who am I ?</h3>
+
+- 👀 I’m currently working on project as a **Frontend Developer** using :triangular_flag_on_post:	Angular 14 :triangular_flag_on_post:	 as a main framework
+- :newspaper: From time to time I'm interviewing JS candidates for our company as a technical recruiter
+- 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
+- 👷🏻‍♂️ Feel free to see my <a href="https://adrianzinko.com" target="_blank">💰**Portfolio Website**💰
+- 📨 If you want to reach out feel free to send me an email : zinkoadrian00@gmail.com
 - :paperclip: [My Resume](https://github.com/adrianghub/adrianghub/blob/master/resume/CV_ADRIAN_ZINKO.pdf)
-- :email: zinko.adrian00@gmail.com
 
-<details>
+<h3 align="center">Connect with me:</h3>
+ 
+<p align="center" >
+<a href="https://www.linkedin.com/in/adrian-zinko/" target="_blank"><img src="https://user-images.githubusercontent.com/61510923/155706452-ceb6a5a7-89e7-43ef-8239-f7dc23c68586.png" alt="icon | LinkedIn" width="40px"/>
+</a>
+</p>
+
 <br />
-<summary>
-Find out more about me
-</summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=synthwave&count_private=true&hide=prs,issues,contribs)
+<br />
 
 ### Tools I've used recently
 
@@ -40,10 +46,16 @@ Other        1 hr 11 mins    █░░░░░░░░░░░░░░░░
 
 <br />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="margin-right: 20px">](https://www.linkedin.com/in/adrian.zinko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="margin-right: 20px">](https://www.instagram.com/_drianko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="margin-right: 20px">](https://twitter.com/adrian.zinko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style="margin-right: 20px">](https://adrianghub.netlify.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/adrianghub)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=synthwave&count_private=true&hide=prs,issues,contribs)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+<br /><br />
 
-</details>
+
+<h3> Currently in the mood for 🎸 </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ae5g4slj4cqzbvrnfk7q1a7in&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+
+<br /><br /><br />
+
+<h2 align="center">👋🏻 Cheers ! 👋🏻</h2>
