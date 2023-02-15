@@ -15,7 +15,7 @@
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
 - 👷🏻‍♂️ Feel free to see my <a href="https://adrianzinko.com" target="_blank">:bulb:**Portfolio Website**:bulb:
 - 📨 If you want to reach out feel free to send me an email : hello@adrianzinko.com
-- :paperclip: [My Resume](https://github.com/adrianghub/adrianghub/blob/master/resume/CV_ADRIAN_ZINKO.pdf)
+- :paperclip: Check out my [Resume]((https://azinko.s3.eu-central-1.amazonaws.com/resume-adrianzinko.pdf))
 
 <h3 align="center">Connect with me:</h3>
  
