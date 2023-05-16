@@ -35,7 +35,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   0 secs          █████████████████████████   100.00 %
+Svelte       2 mins          █████████████████████▓░░░   87.11 %
+TypeScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+XML          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
