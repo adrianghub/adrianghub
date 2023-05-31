@@ -1,4 +1,4 @@
-![Portfolio Banner](https://azinko.s3.eu-central-1.amazonaws.com/banner-github.png)
+![Portfolio Banner](https://azinko.s3.eu-central-1.amazonaws.com/banner.png)
 
 <h1 align="center">
   Hi there, I’m Adrian !
