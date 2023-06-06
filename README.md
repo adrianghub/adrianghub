@@ -10,7 +10,7 @@
 
 <h3 align="left">Who am I ?</h3>
 
-- 👀 I’m currently working on a project as a **Frontend Developer** using :triangular_flag_on_post:	Angular 14 :triangular_flag_on_post:	 as a main framework
+- 👀 I’m currently working on a project as a **Frontend Developer** using :triangular_flag_on_post:	Angular 15 :triangular_flag_on_post:	 as a main framework
 - :newspaper: From time to time I'm interviewing JS candidates for our company as a technical recruiter
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
 - 👷🏻‍♂️ Feel free to see my <a href="https://adrianzinko.com" target="_blank">:bulb:**Portfolio Website**:bulb:
