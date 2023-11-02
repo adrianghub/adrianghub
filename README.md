@@ -4,13 +4,13 @@
   Hi there, I’m Adrian !
 </h1>
 
-<h2 align="center">👨🏻‍💻 JavaScript Developer (Angular, React, Node) 👨🏻‍💻</h2> 
+<h2 align="center">👨🏻‍💻 Javascript Developer (Angular, React, Node) 👨🏻‍💻</h2> 
 
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
 <h3 align="left">Who am I ?</h3>
 
-- 👀 I’m currently working on a project as a **Frontend Developer** using :triangular_flag_on_post:	Angular 15 :triangular_flag_on_post:	 as a main framework
+- 👀 I’m currently working on a project as a **Frontend Developer** using :triangular_flag_on_post:	Angular 16 :triangular_flag_on_post:	 as a main framework
 - :newspaper: From time to time I'm interviewing JS candidates for our company as a technical recruiter
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
 - 👷🏻‍♂️ Feel free to see my <a href="https://adrianzinko.com" target="_blank">:bulb:**Portfolio Website**:bulb:
