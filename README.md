@@ -1,7 +1,7 @@
 ![Portfolio Banner](https://azinko.s3.eu-central-1.amazonaws.com/banner.png)
 
 <h1 align="center">
-  Hi there, I’m Adrian !
+  Hi there, I’m Adrian!
 </h1>
 
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
@@ -12,7 +12,7 @@
 - :newspaper: From time to time I'm interviewing JS candidates for our company as a technical recruiter
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
 - 👷🏻‍♂️ Feel free to see my <a href="https://adrianzinko.com" target="_blank">:bulb:**Portfolio Website**:bulb:
-- 📨 If you want to reach out feel free to send me an email : <a href="mailto:zinko.adrian00@gmail.com">zinko.adrian00@gmail.com</a>
+- 📨 If you want to reach out feel free to send me an email : <a href="mailto:az@adrianzinko.com">az@adrianzinko.com</a>
 - :paperclip: Check out my <a href="https://career-az.s3.eu-north-1.amazonaws.com/CV_ADRIAN_ZINKO.pdf" target="_blank">**Resume**
 
 <h3 align="center">Connect with me:</h3>
@@ -22,33 +22,9 @@
 </a>
 </p>
 
-<br />
-
-<br />
-
-### Tools I've used recently
-
-<br/>
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<br />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=synthwave&count_private=true&hide=prs,issues,contribs)
-
 <br /><br />
 
-
-<h3> Currently in the mood for 🎸 </h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ae5g4slj4cqzbvrnfk7q1a7in&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=synthwave&count_private=true&hide=prs,issues,contribs)
 
 <br /><br /><br />
 
