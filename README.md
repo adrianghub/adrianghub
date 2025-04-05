@@ -39,10 +39,10 @@
 
 <div>
   <a href="https://github.com/adrianghub/portfelik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=portfelik" alt="Portfelik Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=portfelik" alt="Portfelik App Repo" />
   </a>
   <a href="https://github.com/adrianghub/portfelik-bff">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=portfelik-bff" alt="Portfelik-BFF Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=portfelik-bff" alt="Portfelik BFF Repo" />
   </a>
 </div>
 
