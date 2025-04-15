@@ -31,6 +31,11 @@
   </tr>
 </table>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <br /><br />
 
 > Recently besides the full-time job I really enjoy messing around with my hobby project, learning Go and GCP in the meantime :)
