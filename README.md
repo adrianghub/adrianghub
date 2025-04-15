@@ -31,6 +31,11 @@
   </tr>
 </table>
 
+<br /><br />
+
+<h3>Languages usage statistics based on my recent activity in IDE</h3>
+
+<br />
 
 <!--START_SECTION:waka-->
 
