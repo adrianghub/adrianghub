@@ -60,8 +60,8 @@ HTTP          48 mins         ▒░░░░░░░░░░░░░░░�
   <a href="https://github.com/adrianghub/portfelik">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=portfelik" alt="Portfelik App Repo" />
   </a>
-  <a href="https://github.com/adrianghub/portfelik-bff">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=portfelik-bff" alt="Portfelik BFF Repo" />
+  <a href="https://github.com/adrianghub/fitness-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=fitness-engine" alt="FitnessEngine App Repo" />
   </a>
 </div>
 
