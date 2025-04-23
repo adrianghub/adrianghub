@@ -56,14 +56,15 @@ YAML          1 hr 6 mins     ▓░░░░░░░░░░░░░░░�
 
 <br />
 
-<div>
-  <a href="https://github.com/adrianghub/portfelik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=portfelik" alt="Portfelik App Repo" />
-  </a>
-  <a href="https://github.com/adrianghub/fitness-engine">
+<a href="https://github.com/adrianghub/portfelik">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=portfelik" alt="Portfelik App Repo" />
+</a>
+
+<br />
+
+<a href="https://github.com/adrianghub/fitness-engine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianghub&repo=fitness-engine" alt="FitnessEngine App Repo" />
   </a>
-</div>
 
 <br /><br /><br />
 
