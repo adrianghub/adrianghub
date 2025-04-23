@@ -22,16 +22,7 @@
 </a>
 </p>
 
-<br /><br />
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianghub&layout=compact" alt="Top Langs"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=dracula&count_private=true" alt="GitHub stats"></td>
-  </tr>
-</table>
-
-<br /><br />
+<br />
 
 <h3>Languages usage statistics based on my recent activity in IDE</h3>
 
@@ -49,6 +40,10 @@ YAML          1 hr 6 mins     ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<br />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=adrianghub&show_icons=true&theme=dracula&count_private=true" alt="GitHub stats">
 
 <br /><br />
 
