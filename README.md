@@ -31,10 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     0 secs                ██████████████████████▒░░   89.65 %
-JSON         0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-TypeScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Python       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
