@@ -31,9 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       1 min                 ████████████████▓░░░░░░░░   66.93 %
-Markdown     0 secs                █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
-TypeScript   0 secs                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Markdown     3 mins                ███████████████▒░░░░░░░░░   61.86 %
+Svelte       1 min                 ████████▒░░░░░░░░░░░░░░░░   33.03 %
+TypeScript   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->
